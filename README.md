@@ -18,8 +18,7 @@ If you’re looking for a collaborator who’s committed to excellence, let’s 
 - Send a DM on [LinkedIn](https://www.linkedin.com/in/ahmed-hashir-0173a8188/)
 - Connect on [Instagram](https://www.instagram.com/authorashir/)
 
-
-- 
+ 
 Whether you’re a brand, startup, or individual, I’d love to chat about your projects and explore how we can create something extraordinary together. 
 
 ### Technologies
