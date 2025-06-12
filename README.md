@@ -6,11 +6,6 @@ My mission?
 To create products that people genuinely enjoy interacting with. Whether it’s React.js, Next.js, Python, Django, Laravel, Flutter, or tools like Docker, AWS, and Nginx, I thrive on challenges and leverage cutting-edge tech to drive meaningful outcomes. 
 
 <hr />
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHashir10&show_icons=true&theme=dark)<br/>
-
-
   
 If you’re looking for a collaborator who’s committed to excellence, let’s connect! 
 
